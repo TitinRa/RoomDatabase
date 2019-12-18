@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Nama" type="id" />
+    <item name="Nim" type="id" />
+    <item name="Kejuruan" type="id" />
+    <item name="Alamat" type="id" />
+</resources>
